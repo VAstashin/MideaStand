@@ -1,0 +1,15 @@
+{
+    "slide_change_timer": 20,
+
+    "idle_timer": 20,
+
+    "idle_timer_update_config": 5,
+
+    "root_site": "https://midearussia.ru/",
+
+    "list_slides":
+        {
+            "slide_1.png": "https://midearussia.ru/",
+            "slide_2.png": "https://midearussia.ru/"
+        }
+}
