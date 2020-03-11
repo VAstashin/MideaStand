@@ -1,9 +1,9 @@
 {
     "slide_change_timer": 20,
 
-    "idle_timer": 20,
+    "idle_timer": 60,
 
-    "idle_timer_update_config": 30,
+    "idle_timer_update_config": 5,
 
     "root_site": "https://midearussia.ru/",
 
