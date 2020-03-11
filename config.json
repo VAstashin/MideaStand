@@ -3,7 +3,7 @@
 
     "idle_timer": 20,
 
-    "idle_timer_update_config": 5,
+    "idle_timer_update_config": 30,
 
     "root_site": "https://midearussia.ru/",
 
